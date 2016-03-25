@@ -1,2 +1,3 @@
 # luckdraw
-a luck draw js
+a luck draw using the <canvas> tags
+
